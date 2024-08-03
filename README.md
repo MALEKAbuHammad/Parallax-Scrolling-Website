@@ -1,3 +1,3 @@
 # Parallax-Scrolling-Website
-Parallax Scrolling Website | How to Make Website using Html CSS & Javascript
+Template From this website:
 [Online Tutorials Channel On YouTupe](https://www.youtube.com/watch?v=1wfeqDyMUx4)
